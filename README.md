@@ -47,4 +47,6 @@ Remember, the dark web carries significant risks. Prioritize security, stay info
 
 This guide is for educational purposes only. The information provided here aims to increase awareness and understanding of the darkweb. We neither support nor encourage any illegal activities. Always abide by your jurisdiction's laws and regulations.
 
-Update: Contact URLs
+
+
+Update: Fixed broken anchor links in wiki pages
