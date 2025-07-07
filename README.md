@@ -49,4 +49,6 @@ This guide is for educational purposes only. The information provided here aims 
 
 
 
-Update: Fixed broken anchor links in wiki pages
+
+
+Update: Resolved dead links in architecture documentation
